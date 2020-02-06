@@ -1,0 +1,5 @@
+In this study we created digital soil maps of exchangeable calcium and magnesium using three main approches viz- Geostatistical (GS), statistical (SA) and Hybrid (HA). 
+
+In case of GS approach we used software Vesper (1.62) from the University of Sydney. Details about this software installation and use can be found on (https://precision-agriculture.sydney.edu.au/resources/software/)
+
+In case of SA and hybrid approach, we used Rstudio (3.6). Instruction about installing and use of Rstudio can be found at (https://rstudio.com/products/rstudio/)
